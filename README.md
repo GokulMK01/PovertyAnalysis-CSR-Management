@@ -1,5 +1,5 @@
 ﻿# PovertyAnalysis-CSR-Management
-	  ........................
+	  ................................................
 Leveraging census data with machine learning for targeted funding and poverty alleviation initiatives, optimizing resource allocation for effective 
 socio-economic impact.
 
